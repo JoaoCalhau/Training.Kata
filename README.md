@@ -1,2 +1,2 @@
 # Training.Kata
-Repo to store my Kata solutions
+Repo to store my CodeWars Kata solutions
